@@ -1,0 +1,19 @@
+<div class="container">
+    <footer role="contentinfo">
+        
+<ul>
+    <li><a href="http://127.0.0.1/maqcosturausada/index.php/about-magento-demo-store?___SID=U">About Us</a></li>
+    <li><a href="http://127.0.0.1/maqcosturausada/index.php/customer-service?___SID=U">Customer Service</a></li>
+<li class="last privacy"><a href="http://127.0.0.1/maqcosturausada/index.php/privacy-policy-cookie-restriction-mode?___SID=U">Privacy Policy</a></li>
+</ul><ul class="links">
+                        <li class="first" ><a href="http://127.0.0.1/maqcosturausada/index.php/catalog/seo_sitemap/category/?___SID=U" title="Mapa do Site" >Mapa do Site</a></li>
+                                <li ><a href="http://127.0.0.1/maqcosturausada/index.php/catalogsearch/term/popular/?___SID=U" title="Termos de Pesquisa" >Termos de Pesquisa</a></li>
+                                <li ><a href="http://127.0.0.1/maqcosturausada/index.php/catalogsearch/advanced/?___SID=U" title="Busca Avançada" >Busca Avançada</a></li>
+                               
+                                <li class=" last" ><a href="http://127.0.0.1/maqcosturausada/index.php/contacts/?___SID=U" title="Fale Conosco" >Fale Conosco</a></li>
+            </ul>
+        <p class="bugs">
+            Magento Boilerplate - <a href="http://www.webcomm.com.au/" target="_blank" title="eCommerce Websites Australia"><strong>Another Webcomm Product</strong></a> (Magento ver. 1.9.2.1)        </p>
+        <address>&copy; 2015 Magento Demo Store. All Rights Reserved.</address>
+    </footer>
+</div>
